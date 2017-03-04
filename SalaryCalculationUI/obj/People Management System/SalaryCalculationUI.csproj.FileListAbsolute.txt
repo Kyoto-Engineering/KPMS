@@ -1,0 +1,1200 @@
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+E:\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI25-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI30-6-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\New folder (9)\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI06-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI21-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form22.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+G:\SalaryCalculationUI22-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+G:\SalaryCalculationUI27-08-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI01-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\PMS-04-09-2016\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditEducation.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeUI.resources
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.config
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.application
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.pdb
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.application
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe
+C:\Users\KYOTO\Desktop\New folder (11)\SalaryCalculationUI04-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.config
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.application
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditEducation.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI15-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.config
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditEducation.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 21-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.config
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\bin\People Management System\People Management System.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditEducation.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\People Management System.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 24-09-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeChange.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.config
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\People Management System.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\bin\People Management System\People Management System.application
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\bin\People Management System\People Management System.exe
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\bin\People Management System\People Management System.pdb
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditEducation.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeChange.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\People Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\SalaryCalculationUI 03-10-2016\SalaryCalculationUI\obj\People Management System\People Management System.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditEducation.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeChange.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryIn.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.exe.config
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\Kyoto People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\Kyoto People Management System.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\Kyoto People Management System.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI 04-10-2016\SalaryCalculationUI\obj\People Management System\Kyoto People Management System.pdb
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.exe.config
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\Kyoto People Management System.exe
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\Kyoto People Management System.pdb
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.application
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.exe
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\bin\People Management System\Kyoto People Management System.pdb
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReportViewer1.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmAbout.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.BasicEmployeeInfoGrid.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditEducation.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EditSalary.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeDetailsGrid.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeEditForm.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.EmployeeUI.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.frmEmployee.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.GradeChange.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.Salary.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDelete.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryIn.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.SalaryUpdateForm.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\Kyoto People Management System.exe.manifest
+C:\Users\KYOTO\Desktop\Kyoto People Management System\SalaryCalculationUI\obj\People Management System\Kyoto People Management System.application

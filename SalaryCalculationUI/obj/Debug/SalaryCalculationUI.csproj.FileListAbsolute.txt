@@ -1,0 +1,11 @@
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\bin\Debug\SalaryCalculationUI.exe.config
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\bin\Debug\SalaryCalculationUI.exe
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\bin\Debug\SalaryCalculationUI.pdb
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Debug\SalaryCalculationUI.Form1.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Debug\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Debug\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Debug\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Debug\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Debug\SalaryCalculationUI.exe
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Debug\SalaryCalculationUI.pdb
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Debug\SalaryCalculationUI.csprojResolveAssemblyReference.cache

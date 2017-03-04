@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="EmployeeMSDbConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="EmployeeMSDbConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SalaryCalculationUI.Properties.Settings.GlobalReference.Default.EmployeeMSDbConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SalaryTableAdapter" GeneratorDataComponentClassName="SalaryTableAdapter" Name="Salary" UserDataComponentName="SalaryTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="EmployeeMSDbConnectionString1 (Settings)" DbObjectName="EmployeeMSDb.dbo.Salary" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select EmployeeName,Designation,AccountNo, Basic,TransportAllowance,MedicalAllowance,HouseRent,OtherAllowance, GrossSalary, Tax,AdvancePaid,Adjustment,TotalDeduction,TotalAddition, NetPayable,DayPayable
+from Salary
+union all
+select null,null,null,null,null,null,null,null,sum(GrossSalary),null,null,null,null,null,sum(NetPayable),null
+from Salary;
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EmployeeName" DataSetColumn="EmployeeName" />
+              <Mapping SourceColumn="Designation" DataSetColumn="Designation" />
+              <Mapping SourceColumn="AccountNo" DataSetColumn="AccountNo" />
+              <Mapping SourceColumn="Basic" DataSetColumn="Basic" />
+              <Mapping SourceColumn="TransportAllowance" DataSetColumn="TransportAllowance" />
+              <Mapping SourceColumn="MedicalAllowance" DataSetColumn="MedicalAllowance" />
+              <Mapping SourceColumn="HouseRent" DataSetColumn="HouseRent" />
+              <Mapping SourceColumn="OtherAllowance" DataSetColumn="OtherAllowance" />
+              <Mapping SourceColumn="GrossSalary" DataSetColumn="GrossSalary" />
+              <Mapping SourceColumn="Tax" DataSetColumn="Tax" />
+              <Mapping SourceColumn="AdvancePaid" DataSetColumn="AdvancePaid" />
+              <Mapping SourceColumn="Adjustment" DataSetColumn="Adjustment" />
+              <Mapping SourceColumn="TotalDeduction" DataSetColumn="TotalDeduction" />
+              <Mapping SourceColumn="TotalAddition" DataSetColumn="TotalAddition" />
+              <Mapping SourceColumn="NetPayable" DataSetColumn="NetPayable" />
+              <Mapping SourceColumn="DayPayable" DataSetColumn="DayPayable" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Salary" msprop:Generator_TableClassName="SalaryDataTable" msprop:Generator_TableVarName="tableSalary" msprop:Generator_TablePropName="Salary" msprop:Generator_RowDeletingName="SalaryRowDeleting" msprop:Generator_RowChangingName="SalaryRowChanging" msprop:Generator_RowEvHandlerName="SalaryRowChangeEventHandler" msprop:Generator_RowDeletedName="SalaryRowDeleted" msprop:Generator_UserTableName="Salary" msprop:Generator_RowChangedName="SalaryRowChanged" msprop:Generator_RowEvArgName="SalaryRowChangeEvent" msprop:Generator_RowClassName="SalaryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmployeeName" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnEmployeeName" msprop:Generator_ColumnPropNameInRow="EmployeeName" msprop:Generator_ColumnPropNameInTable="EmployeeNameColumn" msprop:Generator_UserColumnName="EmployeeName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Designation" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDesignation" msprop:Generator_ColumnPropNameInRow="Designation" msprop:Generator_ColumnPropNameInTable="DesignationColumn" msprop:Generator_UserColumnName="Designation" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AccountNo" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnAccountNo" msprop:Generator_ColumnPropNameInRow="AccountNo" msprop:Generator_ColumnPropNameInTable="AccountNoColumn" msprop:Generator_UserColumnName="AccountNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Basic" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnBasic" msprop:Generator_ColumnPropNameInRow="Basic" msprop:Generator_ColumnPropNameInTable="BasicColumn" msprop:Generator_UserColumnName="Basic" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TransportAllowance" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTransportAllowance" msprop:Generator_ColumnPropNameInRow="TransportAllowance" msprop:Generator_ColumnPropNameInTable="TransportAllowanceColumn" msprop:Generator_UserColumnName="TransportAllowance" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MedicalAllowance" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnMedicalAllowance" msprop:Generator_ColumnPropNameInRow="MedicalAllowance" msprop:Generator_ColumnPropNameInTable="MedicalAllowanceColumn" msprop:Generator_UserColumnName="MedicalAllowance" type="xs:decimal" minOccurs="0" />
+              <xs:element name="HouseRent" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnHouseRent" msprop:Generator_ColumnPropNameInRow="HouseRent" msprop:Generator_ColumnPropNameInTable="HouseRentColumn" msprop:Generator_UserColumnName="HouseRent" type="xs:decimal" minOccurs="0" />
+              <xs:element name="OtherAllowance" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnOtherAllowance" msprop:Generator_ColumnPropNameInRow="OtherAllowance" msprop:Generator_ColumnPropNameInTable="OtherAllowanceColumn" msprop:Generator_UserColumnName="OtherAllowance" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GrossSalary" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnGrossSalary" msprop:Generator_ColumnPropNameInRow="GrossSalary" msprop:Generator_ColumnPropNameInTable="GrossSalaryColumn" msprop:Generator_UserColumnName="GrossSalary" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Tax" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTax" msprop:Generator_ColumnPropNameInRow="Tax" msprop:Generator_ColumnPropNameInTable="TaxColumn" msprop:Generator_UserColumnName="Tax" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AdvancePaid" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnAdvancePaid" msprop:Generator_ColumnPropNameInRow="AdvancePaid" msprop:Generator_ColumnPropNameInTable="AdvancePaidColumn" msprop:Generator_UserColumnName="AdvancePaid" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Adjustment" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnAdjustment" msprop:Generator_ColumnPropNameInRow="Adjustment" msprop:Generator_ColumnPropNameInTable="AdjustmentColumn" msprop:Generator_UserColumnName="Adjustment" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalDeduction" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTotalDeduction" msprop:Generator_ColumnPropNameInRow="TotalDeduction" msprop:Generator_ColumnPropNameInTable="TotalDeductionColumn" msprop:Generator_UserColumnName="TotalDeduction" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalAddition" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTotalAddition" msprop:Generator_ColumnPropNameInRow="TotalAddition" msprop:Generator_ColumnPropNameInTable="TotalAdditionColumn" msprop:Generator_UserColumnName="TotalAddition" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NetPayable" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnNetPayable" msprop:Generator_ColumnPropNameInRow="NetPayable" msprop:Generator_ColumnPropNameInTable="NetPayableColumn" msprop:Generator_UserColumnName="NetPayable" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DayPayable" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDayPayable" msprop:Generator_ColumnPropNameInRow="DayPayable" msprop:Generator_ColumnPropNameInTable="DayPayableColumn" msprop:Generator_UserColumnName="DayPayable" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

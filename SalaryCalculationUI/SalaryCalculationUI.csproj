@@ -1,0 +1,917 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F6B6E95-C1C5-456B-9D74-3EACD66E7F1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SalaryCalculationUI</RootNamespace>
+    <AssemblyName>Kyoto People Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\KYOTOSERVER\Share\Softwares\Kyoto People Management System\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Kyoto People Management System</ProductName>
+    <PublisherName>IT Department, Kyoto Engineering and Automation Ltd.</PublisherName>
+    <MinimumRequiredVersion>1.0.0.78</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>instruction</WebPage>
+    <ApplicationRevision>83</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>64506AAAA85E8E50D622FC55F2C87BAC8C64B592</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SalaryCalculationUI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'People Management System|AnyCPU'">
+    <OutputPath>bin\People Management System\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>people_management_system_g1k_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdvancedComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\Birthday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\Birthday.Designer.cs">
+      <DependentUpon>Birthday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\Contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\Contact.Designer.cs">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\BankInformLetter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\BankInformLetter.Designer.cs">
+      <DependentUpon>BankInformLetter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\EmployeeList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EmployeeList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\GradeReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GradeReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\Report1Tax.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report1Tax.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReportViewer1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReportViewer1.Designer.cs">
+      <DependentUpon>ReportViewer1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\SalaryInput.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalaryInput.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\Tax2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\Tax2.Designer.cs">
+      <DependentUpon>Tax2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\Report1Tax1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report1Tax1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\Tax1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\Tax1.Designer.cs">
+      <DependentUpon>Tax1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\TaxPaySheetGenarator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\TaxPaySheetGenarator.Designer.cs">
+      <DependentUpon>TaxPaySheetGenarator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\SalaryCertificateWithCurrencyConversionViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\SalaryCertificateWithCurrencyConversionViewer.Designer.cs">
+      <DependentUpon>SalaryCertificateWithCurrencyConversionViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\PayslipAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\PayslipAll.Designer.cs">
+      <DependentUpon>PayslipAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\PayslipIndividual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\PayslipIndividual.Designer.cs">
+      <DependentUpon>PayslipIndividual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\PayslipIndividualUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\PayslipIndividualUI.Designer.cs">
+      <DependentUpon>PayslipIndividualUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\PayslipGenarator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\PayslipGenarator.Designer.cs">
+      <DependentUpon>PayslipGenarator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\ReportBankInformLetter.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportBankInformLetter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReportPayslip1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportPayslip1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReportPayslip2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportPayslip2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReportSalaryCertificateWithCurrencyConversion.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportSalaryCertificateWithCurrencyConversion.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\SalaryCertificateWithCurrencyConversion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\SalaryCertificateWithCurrencyConversion.Designer.cs">
+      <DependentUpon>SalaryCertificateWithCurrencyConversion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\SalarySummerySheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\SalarySummerySheet.Designer.cs">
+      <DependentUpon>SalarySummerySheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\ReportSalaryConfirmationLetterV1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportSalaryConfirmationLetterV1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReportSummerySheet.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportSummerySheet.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\SalaryConfirmationLetterUI1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\SalaryConfirmationLetterUI1.Designer.cs">
+      <DependentUpon>SalaryConfirmationLetterUI1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\SalaryConfirmationLetterV1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\SalaryConfirmationLetterV1.Designer.cs">
+      <DependentUpon>SalaryConfirmationLetterV1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\Resume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\Resume.Designer.cs">
+      <DependentUpon>Resume.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\ReportBirthday.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportBirthday.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReporstUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReporstUI.Designer.cs">
+      <DependentUpon>ReporstUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReports\ReportContact.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportContact.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\ReportResume.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportResume.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\WithoutAccount.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WithoutAccount.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BCDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Combobox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAO\Employee.cs" />
+    <Compile Include="DAO\Grade.cs" />
+    <Compile Include="DAO\Image1.cs" />
+    <Compile Include="DAO\Images2.cs" />
+    <Compile Include="DAO\Registration.cs" />
+    <Compile Include="DAO\Salary.cs" />
+    <Compile Include="DAO\User.cs" />
+    <Compile Include="DBGateway\ConnectionGateway.cs" />
+    <Compile Include="DBGateway\ConnectionString.cs" />
+    <Compile Include="EmployeeMSDbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EmployeeMSDbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Gateway\EmployeeGateway.cs" />
+    <Compile Include="Gateway\GradeGateway.cs" />
+    <Compile Include="Gateway\SalaryGateway.cs" />
+    <Compile Include="Gateway\UserGateway.cs" />
+    <Compile Include="LoginUI\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUI\EmployeeProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI\EmployeeProfileForm.Designer.cs">
+      <DependentUpon>EmployeeProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUI\frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI\frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUI\frmHRRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI\frmHRRegistration.Designer.cs">
+      <DependentUpon>frmHRRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUI\frmRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI\frmRegistration.Designer.cs">
+      <DependentUpon>frmRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUI\Recoverypassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI\Recoverypassword.Designer.cs">
+      <DependentUpon>Recoverypassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUI\UserDetailGridData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI\UserDetailGridData.Designer.cs">
+      <DependentUpon>UserDetailGridData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\EmployeeManager.cs" />
+    <Compile Include="Manager\GradeManager.cs" />
+    <Compile Include="Manager\SalaryManager.cs" />
+    <Compile Include="Manager\UserManager.cs" />
+    <Compile Include="NReports\SalarySheetRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NReports\SalarySheetRecord.Designer.cs">
+      <DependentUpon>SalarySheetRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\CrystalReport199.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport199.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\CrystalReportForSalarySheetSammary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportForSalarySheetSammary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\CrystalReportForSalarySheetSammary1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportForSalarySheetSammary1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\CrystalReportForTest.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportForTest.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\SalaryDataSet.cs">
+      <DependentUpon>SalaryDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\SalaryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalaryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\BankInformLetterRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\BankInformLetterRecord.Designer.cs">
+      <DependentUpon>BankInformLetterRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\BasicEmployeeInfoGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\BasicEmployeeInfoGrid.Designer.cs">
+      <DependentUpon>BasicEmployeeInfoGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DisplayingSalaryInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DisplayingSalaryInfo.Designer.cs">
+      <DependentUpon>DisplayingSalaryInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EditEducation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EditEducation.Designer.cs">
+      <DependentUpon>EditEducation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EditSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EditSalary.Designer.cs">
+      <DependentUpon>EditSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EmployeeDetailsGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EmployeeDetailsGrid.Designer.cs">
+      <DependentUpon>EmployeeDetailsGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EmployeeEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EmployeeEditForm.Designer.cs">
+      <DependentUpon>EmployeeEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EmployeeInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EmployeeInfoForm.Designer.cs">
+      <DependentUpon>EmployeeInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EmployeeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EmployeeUI.Designer.cs">
+      <DependentUpon>EmployeeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Excel.cs" />
+    <Compile Include="UI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\GradeCalculationEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GradeCalculationEntryForm.Designer.cs">
+      <DependentUpon>GradeCalculationEntryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\GradeChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GradeChange.Designer.cs">
+      <DependentUpon>GradeChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MainUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MainUI.Designer.cs">
+      <DependentUpon>MainUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\NewEmployeeInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\NewEmployeeInfoForm.Designer.cs">
+      <DependentUpon>NewEmployeeInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\OnlyUIForHR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\OnlyUIForHR.Designer.cs">
+      <DependentUpon>OnlyUIForHR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PaySlipUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PaySlipUI.Designer.cs">
+      <DependentUpon>PaySlipUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Salary.Designer.cs">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SalaryDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SalaryDelete.Designer.cs">
+      <DependentUpon>SalaryDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SalaryDetailsEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SalaryDetailsEntryForm.Designer.cs">
+      <DependentUpon>SalaryDetailsEntryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SalaryDetailsGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SalaryDetailsGrid.Designer.cs">
+      <DependentUpon>SalaryDetailsGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SalaryDetailsGrid2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SalaryDetailsGrid2.Designer.cs">
+      <DependentUpon>SalaryDetailsGrid2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SalaryIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SalaryIn.Designer.cs">
+      <DependentUpon>SalaryIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SalaryUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SalaryUpdateForm.Designer.cs">
+      <DependentUpon>SalaryUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TestReportRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\TestReportRecord.Designer.cs">
+      <DependentUpon>TestReportRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaterMarkTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="AllReports\Birthday.resx">
+      <DependentUpon>Birthday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\Contact.resx">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\BankInformLetter.resx">
+      <DependentUpon>BankInformLetter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\EmployeeList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EmployeeList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\GradeReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GradeReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\Report1Tax.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report1Tax.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportViewer1.resx">
+      <DependentUpon>ReportViewer1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\SalaryInput.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SalaryInput.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\Tax2.resx">
+      <DependentUpon>Tax2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\Report1Tax1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report1Tax1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\SalaryCertificateWithCurrencyConversionViewer.resx">
+      <DependentUpon>SalaryCertificateWithCurrencyConversionViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\PayslipAll.resx">
+      <DependentUpon>PayslipAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\PayslipIndividual.resx">
+      <DependentUpon>PayslipIndividual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\PayslipIndividualUI.resx">
+      <DependentUpon>PayslipIndividualUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\PayslipGenarator.resx">
+      <DependentUpon>PayslipGenarator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportBankInformLetter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportBankInformLetter.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportPayslip1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportPayslip1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportPayslip2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportPayslip2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportSalaryCertificateWithCurrencyConversion.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportSalaryCertificateWithCurrencyConversion.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\SalaryCertificateWithCurrencyConversion.resx">
+      <DependentUpon>SalaryCertificateWithCurrencyConversion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\SalarySummerySheet.resx">
+      <DependentUpon>SalarySummerySheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportSalaryConfirmationLetterV1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportSalaryConfirmationLetterV1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportSummerySheet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportSummerySheet.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\SalaryConfirmationLetterV1.resx">
+      <DependentUpon>SalaryConfirmationLetterV1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\SalaryConfirmationLetterUI1.resx">
+      <DependentUpon>SalaryConfirmationLetterUI1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\Resume.resx">
+      <DependentUpon>Resume.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportBirthday.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportBirthday.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReporstUI.resx">
+      <DependentUpon>ReporstUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportContact.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportContact.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ReportResume.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportResume.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\Tax1.resx">
+      <DependentUpon>Tax1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\TaxPaySheetGenarator.resx">
+      <DependentUpon>TaxPaySheetGenarator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\WithoutAccount.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WithoutAccount.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI\EmployeeProfileForm.resx">
+      <DependentUpon>EmployeeProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI\frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI\frmHRRegistration.resx">
+      <DependentUpon>frmHRRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI\frmRegistration.resx">
+      <DependentUpon>frmRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI\Recoverypassword.resx">
+      <DependentUpon>Recoverypassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI\UserDetailGridData.resx">
+      <DependentUpon>UserDetailGridData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NReports\SalarySheetRecord.resx">
+      <DependentUpon>SalarySheetRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports\CrystalReport199.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport199.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CrystalReportForSalarySheetSammary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportForSalarySheetSammary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CrystalReportForSalarySheetSammary1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportForSalarySheetSammary1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CrystalReportForTest.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportForTest.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\BankInformLetterRecord.resx">
+      <DependentUpon>BankInformLetterRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\BasicEmployeeInfoGrid.resx">
+      <DependentUpon>BasicEmployeeInfoGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DisplayingSalaryInfo.resx">
+      <DependentUpon>DisplayingSalaryInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EditEducation.resx">
+      <DependentUpon>EditEducation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EditSalary.resx">
+      <DependentUpon>EditSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EmployeeDetailsGrid.resx">
+      <DependentUpon>EmployeeDetailsGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EmployeeEditForm.resx">
+      <DependentUpon>EmployeeEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EmployeeInfoForm.resx">
+      <DependentUpon>EmployeeInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EmployeeUI.resx">
+      <DependentUpon>EmployeeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\GradeCalculationEntryForm.resx">
+      <DependentUpon>GradeCalculationEntryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\GradeChange.resx">
+      <DependentUpon>GradeChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MainUI.resx">
+      <DependentUpon>MainUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\NewEmployeeInfoForm.resx">
+      <DependentUpon>NewEmployeeInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\OnlyUIForHR.resx">
+      <DependentUpon>OnlyUIForHR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\PaySlipUI.resx">
+      <DependentUpon>PaySlipUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Salary.resx">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SalaryDelete.resx">
+      <DependentUpon>SalaryDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SalaryDetailsEntryForm.resx">
+      <DependentUpon>SalaryDetailsEntryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SalaryDetailsGrid.resx">
+      <DependentUpon>SalaryDetailsGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SalaryDetailsGrid2.resx">
+      <DependentUpon>SalaryDetailsGrid2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SalaryIn.resx">
+      <DependentUpon>SalaryIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SalaryUpdateForm.resx">
+      <DependentUpon>SalaryUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TestReportRecord.resx">
+      <DependentUpon>TestReportRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="EmployeeMSDbDataSet.xsc">
+      <DependentUpon>EmployeeMSDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EmployeeMSDbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EmployeeMSDbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EmployeeMSDbDataSet.xss">
+      <DependentUpon>EmployeeMSDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images2\" />
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon\ems.png" />
+    <Content Include="people_management_system_g1k_icon.ico" />
+    <None Include="Resources\refe5988.jpg" />
+    <None Include="Reports\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reports\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\SalaryDataSet.xsc">
+      <DependentUpon>SalaryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\SalaryDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SalaryDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reports\SalaryDataSet.xss">
+      <DependentUpon>SalaryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\bakg.jpg" />
+    <None Include="Resources\th-software-package1.png" />
+    <None Include="Resources\images4.jpg" />
+    <None Include="Resources\app-icon1.png" />
+    <None Include="Resources\ems.png" />
+    <None Include="Resources\th-software-package.png" />
+    <None Include="Resources\app-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,394 @@
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+C:\Users\Kyoto\Documents\Visual Studio 2013\Projects\SalaryCalculationUI\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+F:\BackUp Rease27-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+F:\BackUp Rease27-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+F:\BackUp Rease27-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+G:\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.Form1.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\Project 28-04-2016\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\SalaryCalculationUI27-04-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.BankInformLetter.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Birthday.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Contact.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.BankInformLetter.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipAll.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Resume.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.ReporstUI.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.ChangePassword.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmLogin.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmRegistration.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.Form1.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.OnlyUIForHR.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.PaySlipUI.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.TestReportRecord.resources
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+E:\With Report\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Birthday.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Contact.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Resume.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.Form1.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+G:\Project 28-04-2016\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Birthday.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Contact.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.BankInformLetter.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipAll.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Resume.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.ReporstUI.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.ChangePassword.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.Form1.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.OnlyUIForHR.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.PaySlipUI.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.TestReportRecord.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Tax2.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Tax1.resources
+C:\Users\KYOTO\Desktop\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Birthday.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Contact.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Tax2.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Resume.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Tax1.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.Form1.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+G:\Project 28-04-2016\New folder (7)\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Birthday.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Contact.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Tax2.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Resume.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Tax1.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.Form1.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+G:\New folder (7)\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.config
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.pdb
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe.manifest
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.application
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.exe
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\bin\Release\SalaryCalculationUI.pdb
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csprojResolveAssemblyReference.cache
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Birthday.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Contact.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.BankInformLetter.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Tax2.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversionViewer.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipAll.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividual.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipIndividualUI.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.PayslipGenarator.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryCertificateWithCurrencyConversion.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalarySummerySheet.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterV1.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.SalaryConfirmationLetterUI1.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Resume.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.ReporstUI.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.Tax1.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.AllReports.TaxPaySheetGenarator.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.ChangePassword.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.EmployeeProfileForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmHRRegistration.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmLogin.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.frmRegistration.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.Recoverypassword.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.LoginUI.UserDetailGridData.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.NReports.SalarySheetRecord.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.Properties.Resources.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.BankInformLetterRecord.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.DisplayingSalaryInfo.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.EmployeeInfoForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.Form1.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.GradeCalculationEntryForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.MainUI.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.NewEmployeeInfoForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.OnlyUIForHR.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.PaySlipUI.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsEntryForm.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.TestReportRecord.resources
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.csproj.GenerateResource.Cache
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.exe.manifest
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.application
+G:\NnPMS\SalaryCalculationUI12-6-2016\SalaryCalculationUI\obj\Release\SalaryCalculationUI.UI.SalaryDetailsGrid2.resources

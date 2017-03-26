@@ -86,6 +86,7 @@
     <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
     <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
     <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -94,6 +95,7 @@
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.Windows" />
+    <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -102,6 +104,8 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdvancedComboBox.cs">
@@ -311,6 +315,10 @@
     <Compile Include="Combobox.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="ComboBoxWithGrid.xaml.cs">
+      <DependentUpon>ComboBoxWithGrid.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxWithGrid_WinformsHost.cs" />
     <Compile Include="DAO\Employee.cs" />
     <Compile Include="DAO\Grade.cs" />
     <Compile Include="DAO\Image1.cs" />
@@ -320,6 +328,7 @@
     <Compile Include="DAO\User.cs" />
     <Compile Include="DBGateway\ConnectionGateway.cs" />
     <Compile Include="DBGateway\ConnectionString.cs" />
+    <Compile Include="Employee2.cs" />
     <Compile Include="EmployeeMSDbDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -438,6 +447,12 @@
     </Compile>
     <Compile Include="UI\BasicEmployeeInfoGrid.Designer.cs">
       <DependentUpon>BasicEmployeeInfoGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Claim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Claim.Designer.cs">
+      <DependentUpon>Claim.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\DisplayingSalaryInfo.cs">
       <SubType>Form</SubType>
@@ -754,6 +769,9 @@
     <EmbeddedResource Include="UI\BasicEmployeeInfoGrid.resx">
       <DependentUpon>BasicEmployeeInfoGrid.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UI\Claim.resx">
+      <DependentUpon>Claim.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\DisplayingSalaryInfo.resx">
       <DependentUpon>DisplayingSalaryInfo.cs</DependentUpon>
     </EmbeddedResource>
@@ -905,6 +923,12 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="ComboBoxWithGrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

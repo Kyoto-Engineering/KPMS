@@ -47,6 +47,7 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.label4 = new System.Windows.Forms.Label();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.NewSettlementbutton = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -117,6 +118,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.NewSettlementbutton);
             this.groupBox1.Controls.Add(this.frmAboutButton);
             this.groupBox1.Controls.Add(this.reportButton);
             this.groupBox1.Controls.Add(this.regButton);
@@ -221,6 +223,17 @@
             // 
             this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
             // 
+            // NewSettlementbutton
+            // 
+            this.NewSettlementbutton.BackColor = System.Drawing.SystemColors.Highlight;
+            this.NewSettlementbutton.Location = new System.Drawing.Point(20, 408);
+            this.NewSettlementbutton.Name = "NewSettlementbutton";
+            this.NewSettlementbutton.Size = new System.Drawing.Size(94, 62);
+            this.NewSettlementbutton.TabIndex = 11;
+            this.NewSettlementbutton.Text = "New Settlement";
+            this.NewSettlementbutton.UseVisualStyleBackColor = false;
+            this.NewSettlementbutton.Click += new System.EventHandler(this.NewSettlementbutton_Click);
+            // 
             // MainUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
@@ -268,5 +281,6 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Timer timer2;
+        private System.Windows.Forms.Button NewSettlementbutton;
     }
 }

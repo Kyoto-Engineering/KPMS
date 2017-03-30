@@ -34,6 +34,7 @@
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.FundRequisitionNotextBox = new System.Windows.Forms.TextBox();
             this.AmounttextBox = new System.Windows.Forms.TextBox();
             this.TotaltextBox = new System.Windows.Forms.TextBox();
@@ -67,7 +68,8 @@
             this.columnHeader1,
             this.columnHeader2,
             this.columnHeader3,
-            this.columnHeader4});
+            this.columnHeader4,
+            this.columnHeader5});
             this.listView1.Location = new System.Drawing.Point(31, 271);
             this.listView1.Name = "listView1";
             this.listView1.Size = new System.Drawing.Size(449, 97);
@@ -77,23 +79,27 @@
             // 
             // columnHeader1
             // 
-            this.columnHeader1.Text = "Purpose";
-            this.columnHeader1.Width = 78;
+            this.columnHeader1.Text = "PurposeId";
             // 
             // columnHeader2
             // 
-            this.columnHeader2.Text = "Fund Requisition No";
-            this.columnHeader2.Width = 112;
+            this.columnHeader2.Text = "Purpose";
+            this.columnHeader2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // columnHeader3
             // 
-            this.columnHeader3.Text = "Description";
-            this.columnHeader3.Width = 151;
+            this.columnHeader3.Text = "Fund Requisition No";
+            this.columnHeader3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // columnHeader4
             // 
-            this.columnHeader4.Text = "Amount";
-            this.columnHeader4.Width = 138;
+            this.columnHeader4.Text = "Description";
+            this.columnHeader4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // columnHeader5
+            // 
+            this.columnHeader5.Text = "Amount";
+            this.columnHeader5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // FundRequisitionNotextBox
             // 
@@ -210,7 +216,7 @@
             // 
             // Submitbutton
             // 
-            this.Submitbutton.Location = new System.Drawing.Point(548, 374);
+            this.Submitbutton.Location = new System.Drawing.Point(541, 375);
             this.Submitbutton.Name = "Submitbutton";
             this.Submitbutton.Size = new System.Drawing.Size(75, 23);
             this.Submitbutton.TabIndex = 18;
@@ -234,7 +240,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(843, 458);
+            this.ClientSize = new System.Drawing.Size(843, 469);
             this.Controls.Add(this.Submitbutton);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.Removebutton);
@@ -254,6 +260,7 @@
             this.Controls.Add(this.comboBoxWithGrid_WinformsHost1);
             this.Name = "Claim";
             this.Text = "Personal Claim & Settlement";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Claim_FormClosed);
             this.Load += new System.EventHandler(this.Claim_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -267,10 +274,6 @@
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.TextBox FundRequisitionNotextBox;
         private System.Windows.Forms.TextBox AmounttextBox;
-        private System.Windows.Forms.ColumnHeader columnHeader1;
-        private System.Windows.Forms.ColumnHeader columnHeader2;
-        private System.Windows.Forms.ColumnHeader columnHeader3;
-        private System.Windows.Forms.ColumnHeader columnHeader4;
         private System.Windows.Forms.TextBox TotaltextBox;
         private System.Windows.Forms.ComboBox PurposecomboBox;
         private System.Windows.Forms.Label label1;
@@ -283,6 +286,11 @@
         private System.Windows.Forms.Button Removebutton;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button Submitbutton;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.ColumnHeader columnHeader2;
+        private System.Windows.Forms.ColumnHeader columnHeader3;
+        private System.Windows.Forms.ColumnHeader columnHeader4;
+        private System.Windows.Forms.ColumnHeader columnHeader5;
 
     }
 }

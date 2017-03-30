@@ -121,7 +121,7 @@ namespace SalaryCalculationUI.LoginUI
                        MainUI frm = new MainUI();
                         this.Visible = false;
                         frm.ShowDialog();
-                        this.Visible =true;
+                        this.Visible =false;
                         txtUserName.Clear();
                         txtPassword.Clear();
                         txtUserName.Focus();
@@ -219,6 +219,11 @@ namespace SalaryCalculationUI.LoginUI
             {
                 oKButton_Click(this, new EventArgs());
             }
+        }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

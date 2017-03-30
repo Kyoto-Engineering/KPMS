@@ -22,7 +22,7 @@ namespace SalaryCalculationUI
           // Application.Run(new MainUI());
           // Application.Run(new EmployeeInfoForm());
             //Application.Run(new SalaryDetailsEntryForm());
-          // Application.Run(new UserLogInForm());
+           //Application.Run(new UserLogInForm());
             Application.Run(new frmLogin());
            //Application.Run(new Claim());
           // Application.Run(new frmRegistration());

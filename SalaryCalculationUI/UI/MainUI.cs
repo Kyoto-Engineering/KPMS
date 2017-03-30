@@ -216,7 +216,8 @@ namespace SalaryCalculationUI.UI
                     cmd.Parameters.AddWithValue("@d3", yr);
                     cmd.Parameters.AddWithValue("@d4", sLinyear);
                     cmd.Parameters.AddWithValue("@d5", referenceNo);
-                    cmd.Parameters.AddWithValue("@d6", (object)aNull ?? DBNull.Value);
+                    //cmd.Parameters.AddWithValue("@d6", (object)aNull ?? DBNull.Value);
+                    cmd.Parameters.AddWithValue("@d6", "0");
                     sid = (int)cmd.ExecuteScalar();
                     con.Close();
                 }
@@ -231,7 +232,8 @@ namespace SalaryCalculationUI.UI
                     cmd.Parameters.AddWithValue("@d3", DateTime.Now.Year);
                     cmd.Parameters.AddWithValue("@d4", sLinyear);
                     cmd.Parameters.AddWithValue("@d5", referenceNo);
-                    cmd.Parameters.AddWithValue("@d6", (object)aNull ?? DBNull.Value);
+                    //cmd.Parameters.AddWithValue("@d6", (object)aNull ?? DBNull.Value);
+                    cmd.Parameters.AddWithValue("@d6", "0");
                     sid = (int)cmd.ExecuteScalar();
                     con.Close();
                 }

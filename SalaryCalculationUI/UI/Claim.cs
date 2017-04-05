@@ -82,7 +82,7 @@ namespace SalaryCalculationUI.UI
 
         private void Claim_Load(object sender, EventArgs e)
         {
-            comboBoxWithGrid_WinformsHost1.Enabled = true;
+            
             sId = MainUI.sid.ToString();
             FillPurpose();
         }
@@ -106,9 +106,9 @@ namespace SalaryCalculationUI.UI
 
         private void Addbutton_Click(object sender, EventArgs e)
         {
-            // string name =
-            //comboBoxWithGrid_WinformsHost1.SelectedItem.Name;
-            // FundRequisitionNotextBox.Text = name;
+           
+            comboBoxWithGrid_WinformsHost1.Enabled=false;
+            
             if (string.IsNullOrWhiteSpace(PurposecomboBox.Text))
             {
                 MessageBox.Show("Please Select Purpose!", "error", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -193,11 +193,7 @@ namespace SalaryCalculationUI.UI
                 MessageBox.Show("Please select List Item First!", "error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
-           //if (listView1.Items.Count == 0)
-           // {
-           //     MessageBox.Show("Please Added to List First!", "error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-           // }
-
+        
             else
             {
                 takeRemovePric = Convert.ToDecimal(listView1.SelectedItems[0].SubItems[4].Text);
@@ -305,11 +301,11 @@ namespace SalaryCalculationUI.UI
                Insertclaim();
                MessageBox.Show("Submitted Successfully", "Information", MessageBoxButtons.OK,
                         MessageBoxIcon.Information);
-               //GroupNamecomboBox.SelectedIndex = -1;
+               
                listView1.Items.Clear();
                TotaltextBox.Clear();
                TotaltextBox.Text = 0.ToString();
-               comboBoxWithGrid_WinformsHost1.Enabled = false;
+               comboBoxWithGrid_WinformsHost1.Enabled = true;
            }
             
 

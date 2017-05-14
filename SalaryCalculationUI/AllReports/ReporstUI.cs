@@ -404,5 +404,10 @@ namespace SalaryCalculationUI.AllReports
             a.ShowDialog();
             this.Visible = true; 
         }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

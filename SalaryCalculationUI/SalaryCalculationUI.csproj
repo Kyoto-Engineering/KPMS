@@ -117,6 +117,18 @@
     <Compile Include="AllReports\Birthday.Designer.cs">
       <DependentUpon>Birthday.cs</DependentUpon>
     </Compile>
+    <Compile Include="AllReports\ClaimSettelmentReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClaimSettelmentReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllReports\ClaimUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReports\ClaimUI.Designer.cs">
+      <DependentUpon>ClaimUI.cs</DependentUpon>
+    </Compile>
     <Compile Include="AllReports\Contact.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -598,6 +610,13 @@
     </Compile>
     <EmbeddedResource Include="AllReports\Birthday.resx">
       <DependentUpon>Birthday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ClaimSettelmentReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ClaimSettelmentReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReports\ClaimUI.resx">
+      <DependentUpon>ClaimUI.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AllReports\Contact.resx">
       <DependentUpon>Contact.cs</DependentUpon>

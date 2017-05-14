@@ -407,7 +407,11 @@ namespace SalaryCalculationUI.AllReports
 
         private void button13_Click(object sender, EventArgs e)
         {
+            dynamic a = new ClaimUI();
+            this.Visible = false;
 
+            a.ShowDialog();
+            this.Visible = true; 
         }
     }
 }

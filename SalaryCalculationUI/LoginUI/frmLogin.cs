@@ -225,5 +225,10 @@ namespace SalaryCalculationUI.LoginUI
         {
 
         }
+
+        private void frmLogin_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
